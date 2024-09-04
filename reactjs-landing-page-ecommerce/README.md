@@ -1,16 +1,10 @@
 # Beautiful Home Store - E-commerce Landing Page
 
-<div align="center">
-
-![Layout-projeto](https://github.com/vanessavargas/hiring-coders-2021/blob/master/src/assets/img/layout.png)
-
-</div>
-
-A React JS and React-Bootstrap e-commerce landing page developed in 2021. The project deployment was done on Vercel and can be viewed at this [link](https://beautifulhomestore.vercel.app/).
+A React JS and React-Bootstrap e-commerce landing page developed in 2024.
 
 ## About
 
-Beautiful Home Store is an e-commerce landing page developed with a Black Friday theme, including an email signup for receiving updates. The project was completed as a challenge during the Hiring Coders 2021 program, organized by VTEX in partnership with Gama Academy, conducted between July and August 2021.
+Beautiful Home Store is an e-commerce landing page developed using React js, includes an responsive UI and attractive design. The project was completed as a Internship task conducted by Orinson Technology pvt ltd.
 
 ## Technologies and Tools Used
 
@@ -24,8 +18,8 @@ Beautiful Home Store is an e-commerce landing page developed with a Black Friday
 ## Getting Started
 - Clone the Repository:
   ```
-  git clone https://github.com/vanessavargas/reactjs-landing-page-ecommerce.git
-  cd reactjs-my-bookshelf
+  https://github.com/vivek030502/Orinson-Internship/tree/main/reactjs-landing-page-ecommerce
+  cd reactjs-landing-page-ecommerce
   ```
   
 - Install Dependencies:
